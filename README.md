@@ -1,16 +1,8 @@
-ÏîÄ¿Ãû£ºbank
-Êı¾İ¿âÃû£ºbank
+é¡¹ç›®åï¼šbank
+æ•°æ®åº“åï¼šbank
 
-Êı¾İ¿â±íÎÄ¼ş£º./sql/tables(log,transfer,user).sql
-ÎÄ¼ş´æ´¢£º./WEB-IF/classes/filedata
+æ•°æ®åº“è¡¨æ–‡ä»¶ï¼š./sql/tables(log,transfer,user).sql
+æ–‡ä»¶å­˜å‚¨ï¼š./WEB-IF/classes/filedata
 
-»·¾³£ºtomcat ,j2ee,mysql
-¼¼Êõ£ºhtml css jquery ajax bootstrap     jsp  servlet mysql
-
-
-ÕËºÅ£º
-ÑîÊ¤ÌÎ    123
-Û³Ç¿       123
-»ª½¡ºØ    123
-ÀîÓê·å    123
-ÍôĞ¡Óê    123
+ç¯å¢ƒï¼štomcat ,j2ee,mysql
+æŠ€æœ¯ï¼šhtml css jquery ajax bootstrap     jsp  servlet mysql
